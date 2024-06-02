@@ -1,0 +1,14 @@
+{
+    "name": "producer-consumer",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "producer-consumer.js",
+    "scripts": {
+        "start": "node producer-consumer.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "kafkajs": "^2.2.4",
+        "nodejs": "^20.14.0"
+    }
+}
